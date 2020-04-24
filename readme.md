@@ -31,7 +31,7 @@ get insights into reader traffic and more!
 You may use composer to install Canvas into your Laravel project:
 
 ```bash
-composer require cnvs/canvas
+composer require cnvs/canvas:dev-master
 ```
 
 Publish the assets and primary configuration file using the `canvas:install` Artisan command:
